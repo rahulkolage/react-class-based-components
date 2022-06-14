@@ -1,4 +1,4 @@
-# React Class Based Components
+# Class Based Components
 
 ## Create new React app
 ### https://reactjs.org/docs/create-a-new-react-app.html
